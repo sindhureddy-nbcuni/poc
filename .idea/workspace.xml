@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a393dc0f-4a79-479c-b962-2ab6d110b350" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SrXIqtPqxmnRz4ufL7k1c7LCXn" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.nbcuni.test.vamservice.tests.happypath" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Validate_VamRequest">
+    <configuration name="Validate_VamRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vamservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.Validate_VamRequest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verify_VamResponse (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vamservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.happypath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests.happypath" />
+      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.happypath.Verify_VamResponse" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verify_VamResponse (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vamservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.happypath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests.happypath" />
+      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.happypath.Verify_VamResponse" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verify_VamResponse (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vamservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.happypath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests.happypath" />
+      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.happypath.Verify_VamResponse" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/SindhuReddy/Desktop/vamservice/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vamservice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Validate_VamRequest" />
+        <item itemvalue="TestNG.Verify_VamResponse (3)" />
+        <item itemvalue="TestNG./Users/SindhuReddy/Desktop/vamservice/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.Verify_VamResponse (2)" />
+        <item itemvalue="TestNG.Verify_VamResponse (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a393dc0f-4a79-479c-b962-2ab6d110b350" name="Default Changelist" comment="" />
+      <created>1572322611186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572322611186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/nbcuni/test/vamservice/tests/happypath/Verify_VamResponse.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

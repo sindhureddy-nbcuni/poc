@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Test Suite for VamService]" guice-stage="DEVELOPMENT">
+    <test thread-count="5" parallel="classes" name="TestCheck(failed)">
+        <classes>
+            <class name="com.nbcuni.test.vamservice.tests.happypath.SampleTest">
+                <methods>
+                    <include name="setup"/>
+                    <include name="sampleTest1"/>
+                </methods>
+            </class> <!-- com.nbcuni.test.vamservice.tests.happypath.SampleTest -->
+        </classes>
+    </test> <!-- TestCheck(failed) -->
+</suite> <!-- Failed suite [Test Suite for VamService] -->
