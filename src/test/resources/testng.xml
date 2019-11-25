@@ -4,7 +4,7 @@
 
         <classes>
 
-            <class name="com.nbcuni.test.vamservice.tests.Validate_VamResponse"/>
+            <class name="com.nbcuni.test.vamservice.tests.Validate_VamResponse_Test"/>
         </classes>
 
 </suite>
