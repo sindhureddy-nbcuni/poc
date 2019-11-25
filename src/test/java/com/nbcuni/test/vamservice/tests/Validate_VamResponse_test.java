@@ -7,7 +7,7 @@ import com.relevantcodes.extentreports.LogStatus;
 import io.restassured.response.Response;
 import org.testng.asserts.SoftAssert;
 
-public class Validate_VamResponse {
+public class Validate_VamResponse_test {
 
     public void validateResponse(Response response, String[] data, SoftAssert softAssert, ExtentTest extentTest) {
         // TODO Auto-generated method stub
