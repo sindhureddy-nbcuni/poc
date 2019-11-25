@@ -18,7 +18,7 @@ import java.util.Properties;
 
 import static io.restassured.RestAssured.given;
 
-public class Validate_VamRequest {
+public class Validate_VamRequest_Test {
 
 
     private String configFile = "configuration.properties";
