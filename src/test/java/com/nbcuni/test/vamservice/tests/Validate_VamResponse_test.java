@@ -18,7 +18,7 @@ public class Validate_VamResponse_test {
         JsonObject keyValuesObject = bodyObject.getAsJsonObject("keyValues");
       //  System.out.println(bodyObject.keySet());
         System.out.println(responseBody);
-        int index = 25;
+        int index = 26;
         if (globalParamObject != null) {
             for (String key : globalParamObject.keySet()) {
 
@@ -39,7 +39,7 @@ public class Validate_VamResponse_test {
             }
         }
 
-        index = 37;
+        index = 38;
         if (keyValuesObject != null) {
             for (String key : keyValuesObject.keySet()) {
 
