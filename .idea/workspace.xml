@@ -1,53 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a393dc0f-4a79-479c-b962-2ab6d110b350" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3198c82d-e4a0-4063-bc84-5123bbf4909a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamRequest_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamRequest_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.test.nbcuni/vamservice/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.test.nbcuni/vamservice/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.nbcuni.test.POJO.TestPOJO.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.nbcuni.test.POJO.TestPOJO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.nbcuni.test.POJO.TestPOJO/Command line test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.nbcuni.test.POJO.TestPOJO/Command line test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/Command line test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/DataSheet/testdata1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DataSheet/testdata1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/vamservice.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/ResponsePOJO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/ResponsePOJO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/TestPOJO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/TestPOJO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamRequest_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamRequest_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamResponse_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamResponse_test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/Environment.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/PropertyParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/PropertyParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/ExtentFiles/Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentFiles/Report.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
