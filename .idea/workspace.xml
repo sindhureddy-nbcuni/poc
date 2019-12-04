@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a393dc0f-4a79-479c-b962-2ab6d110b350" name="Default Changelist" comment="" />
+    <list default="true" id="a393dc0f-4a79-479c-b962-2ab6d110b350" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamRequest_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamRequest_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.test.nbcuni/vamservice/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.test.nbcuni/vamservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.nbcuni.test.POJO.TestPOJO.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.nbcuni.test.POJO.TestPOJO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.nbcuni.test.POJO.TestPOJO/Command line test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.nbcuni.test.POJO.TestPOJO/Command line test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/Command line test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.nbcuni.test.POJO.TestPOJO/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DataSheet/testdata1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DataSheet/testdata1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/vamservice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/ResponsePOJO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/ResponsePOJO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/TestPOJO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/TestPOJO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/Environment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/PropertyParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/PropertyParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ExtentFiles/Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentFiles/Report.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +68,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,7 +80,11 @@
   </component>
   <component name="ProjectId" id="1SrXIqtPqxmnRz4ufL7k1c7LCXn" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Validate_VamRequest">
+  <component name="RunManager" selected="TestNG.Validate_VamRequest_test">
     <configuration name="Validate_VamRequest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vamservice" />
       <extension name="coverage">
@@ -67,16 +122,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Verify_VamResponse (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Validate_VamRequest_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vamservice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.happypath.*" />
+          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests.happypath" />
-      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.happypath.Verify_VamResponse" />
+      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.Validate_VamRequest_test" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -130,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Validate_VamRequest_test" />
+        <item itemvalue="TestNG./Users/SindhuReddy/Desktop/vamservice/src/test/resources/testng.xml" />
         <item itemvalue="TestNG.Validate_VamRequest" />
         <item itemvalue="TestNG.Verify_VamResponse (3)" />
-        <item itemvalue="TestNG./Users/SindhuReddy/Desktop/vamservice/src/test/resources/testng.xml" />
         <item itemvalue="TestNG.Verify_VamResponse (2)" />
-        <item itemvalue="TestNG.Verify_VamResponse (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +205,19 @@
       <updated>1572322611186</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

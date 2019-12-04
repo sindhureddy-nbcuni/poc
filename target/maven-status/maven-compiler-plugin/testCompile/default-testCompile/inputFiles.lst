@@ -1,6 +1,6 @@
-/Users/SindhuReddy/Desktop/vamservice/src/test/java/com/nbcuni/test/POJO/ResponsePOJO.java
-/Users/SindhuReddy/Desktop/vamservice/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamRequest.java
-/Users/SindhuReddy/Desktop/vamservice/src/test/java/com/nbcuni/test/vamservice/utils/PropertyParser.java
-/Users/SindhuReddy/Desktop/vamservice/src/test/java/com/nbcuni/test/vamservice/utils/Environment.java
-/Users/SindhuReddy/Desktop/vamservice/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamResponse.java
-/Users/SindhuReddy/Desktop/vamservice/src/test/java/com/nbcuni/test/POJO/TestPOJO.java
+/Users/jovidonbegov/Desktop/poc/src/test/java/com/nbcuni/test/POJO/ResponsePOJO.java
+/Users/jovidonbegov/Desktop/poc/src/test/java/com/nbcuni/test/vamservice/utils/Environment.java
+/Users/jovidonbegov/Desktop/poc/src/test/java/com/nbcuni/test/vamservice/utils/PropertyParser.java
+/Users/jovidonbegov/Desktop/poc/src/test/java/com/nbcuni/test/POJO/TestPOJO.java
+/Users/jovidonbegov/Desktop/poc/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamRequest_test.java
+/Users/jovidonbegov/Desktop/poc/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamResponse_test.java
