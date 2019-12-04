@@ -18,7 +18,7 @@ import java.util.Properties;
 
 import static io.restassured.RestAssured.given;
 
-public class Validate_VamRequest_Test {
+public class Validate_VamRequest_test {
 
 
     private String configFile = "configuration.properties";
@@ -27,7 +27,7 @@ public class Validate_VamRequest_Test {
     private Properties envProp;
     private PropertyParser propertyParser;
     private TestPOJO testPOJO;
-    private Validate_VamResponse responseVal;
+    private Validate_VamResponse_test responseVal;
     private SoftAssert softAssert;
     private ExtentReports extentReports;
     private ExtentTest extentTest;
@@ -46,7 +46,7 @@ public class Validate_VamRequest_Test {
         properties = propertyParser.parseProperties(configFile);
         envProp = propertyParser.parseEnvProperties(envFile);
         testPOJO = new TestPOJO();
-        responseVal = new Validate_VamResponse();
+        responseVal = new Validate_VamResponse_test();
         softAssert = new SoftAssert();
         extentReports = new ExtentReports(System.getProperty("user.dir") + "/test-output/ExtentFiles/Report.html", true);
         extentReports.addSystemInfo("Environment", envProp.getProperty("currentenv").substring(10, 13).toUpperCase())
@@ -86,7 +86,7 @@ public class Validate_VamRequest_Test {
                 + testPojo.getAppVersion() + "&cdnName=" + testPojo.getCdnName() + "&sdkVersion="
                 + testPojo.getSdkVersion() + "&playerWidthPixels=" + testPojo.getPlayerWidthPixels()
                 + "&playerHeightPixels=" + testPojo.getPlayerHeightPixels() + "&coppaApplies="
-                + testPojo.getCoppaApplies() + "&isBingeViewer=" + testPojo.getIsBingeViewer();
+                + testPojo.getCoppaApplies() + "&isBingeViewer=" + testPojo.getIsBingeViewer()+"&obfuscatedFreewheelProfileId="+testPojo.getObfuscatedFreewheelProfileId();
         extentTest.log(LogStatus.INFO, "URL : " + url);
         return url;
     }
@@ -130,6 +130,7 @@ public class Validate_VamRequest_Test {
                     testPojo.setPlayerHeightPixels(data[22]);
                     testPojo.setCoppaApplies(data[23]);
                     testPojo.setIsBingeViewer(data[24]);
+                    testPojo.setObfuscatedFreewheelProfileId(data[25]);
                     if (testPojo.getAppName() != null) {
                         String url = getUrl(testPojo);
                         Response response = callApiUrl(url);
