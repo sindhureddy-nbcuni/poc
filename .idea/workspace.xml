@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a393dc0f-4a79-479c-b962-2ab6d110b350" name="Default Changelist" comment="" />
+    <list default="true" id="a393dc0f-4a79-479c-b962-2ab6d110b350" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamRequest_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nbcuni/test/vamservice/tests/Validate_VamRequest_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/DataSheet/testdata1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/DataSheet/testdata1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DataSheet/testdata1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DataSheet/testdata1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ExtentFiles/Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentFiles/Report.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +27,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -49,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Validate_VamRequest">
+  <component name="RunManager" selected="TestNG.Validate_VamRequest_test">
     <configuration name="Validate_VamRequest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vamservice" />
       <extension name="coverage">
@@ -67,16 +78,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Verify_VamResponse (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Validate_VamRequest_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vamservice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.happypath.*" />
+          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests.happypath" />
-      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.happypath.Verify_VamResponse" />
+      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.Validate_VamRequest_test" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -130,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Validate_VamRequest_test" />
         <item itemvalue="TestNG.Validate_VamRequest" />
         <item itemvalue="TestNG.Verify_VamResponse (3)" />
         <item itemvalue="TestNG./Users/SindhuReddy/Desktop/vamservice/src/test/resources/testng.xml" />
         <item itemvalue="TestNG.Verify_VamResponse (2)" />
-        <item itemvalue="TestNG.Verify_VamResponse (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +161,17 @@
       <updated>1572322611186</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

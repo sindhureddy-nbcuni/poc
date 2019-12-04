@@ -130,7 +130,7 @@ public class Validate_VamRequest_test {
                     testPojo.setPlayerHeightPixels(data[22]);
                     testPojo.setCoppaApplies(data[23]);
                     testPojo.setIsBingeViewer(data[24]);
-                    testPojo.setObfuscatedFreewheelProfileId(data[61]);
+                    testPojo.setObfuscatedFreewheelProfileId(data[25]);
                     if (testPojo.getAppName() != null) {
                         String url = getUrl(testPojo);
                         Response response = callApiUrl(url);
