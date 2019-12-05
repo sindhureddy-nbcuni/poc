@@ -4,7 +4,6 @@
 <test name="tests">
 
         <classes>
-
             <class name="com.nbcuni.test.vamservice.tests.Validate_VamRequest_test"/>
         </classes>
 

@@ -3,15 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3198c82d-e4a0-4063-bc84-5123bbf4909a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/DataSheet/testdata1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DataSheet/testdata1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/ResponsePOJO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/ResponsePOJO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/TestPOJO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/POJO/TestPOJO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamRequest_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamRequest_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamResponse_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/tests/Validate_VamResponse_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/Environment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/PropertyParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nbcuni/test/vamservice/utils/PropertyParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/ExtentFiles/Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentFiles/Report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Validate_VamRequest_test">
+  <component name="RunManager" selected="TestNG./Users/jovidonbegov/Desktop/poc/test-output/testng-failed.xml">
     <configuration name="Validate_VamRequest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vamservice" />
       <extension name="coverage">
@@ -102,40 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Verify_VamResponse (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="vamservice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.happypath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests.happypath" />
-      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.happypath.Verify_VamResponse" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Verify_VamResponse (3)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="vamservice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nbcuni.test.vamservice.tests.happypath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nbcuni.test.vamservice.tests.happypath" />
-      <option name="MAIN_CLASS_NAME" value="com.nbcuni.test.vamservice.tests.happypath.Verify_VamResponse" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="/Users/SindhuReddy/Desktop/vamservice/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vamservice" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
@@ -146,13 +108,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/jovidonbegov/Desktop/poc/test-output/testng-failed.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vamservice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vamservice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Validate_VamRequest_test" />
+        <item itemvalue="TestNG./Users/jovidonbegov/Desktop/poc/test-output/testng-failed.xml" />
         <item itemvalue="TestNG./Users/SindhuReddy/Desktop/vamservice/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.Validate_VamRequest_test" />
         <item itemvalue="TestNG.Validate_VamRequest" />
-        <item itemvalue="TestNG.Verify_VamResponse (3)" />
-        <item itemvalue="TestNG.Verify_VamResponse (2)" />
       </list>
     </recent_temporary>
   </component>
